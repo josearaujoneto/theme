@@ -5,5 +5,7 @@
   "type": "object",
   "properties": {},
   "additionalProperties": false,
+  "displayName": "Theme",
+  "theme": "Theme",
   "isLight": false
 }
