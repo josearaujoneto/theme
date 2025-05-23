@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.8
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: jose.araujoneto@icloud.com
+author_name: Jose Neto
+has_binder: false
+has_settings: true
+kind: theme
+labextension_name: theme
+project_short_description: A JupyterLab extension.
+python_name: theme
+repository: https://github.com/josearaujoneto/theme
+test: false
+

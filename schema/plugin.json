@@ -1,0 +1,9 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "theme",
+  "description": "theme settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false,
+  "isLight": false
+}
